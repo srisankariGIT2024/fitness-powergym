@@ -1,0 +1,27 @@
+.stat-text {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.stat-description {
+    font-size: 1rem;
+    color: #fff; /* Grey color for the description text */
+}
+
+.text-dark h1 {
+    font-size: 2.5rem; /* Adjust font size as needed */
+    font-weight: bold;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.mt-4 {
+    margin-top: 1.5rem; /* Space above the button */
+}
+
+.mb-4 {
+    margin-bottom: 1.5rem; /* Space below each statistic block */
+}

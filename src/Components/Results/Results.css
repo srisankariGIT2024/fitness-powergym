@@ -1,0 +1,7 @@
+/* Add this to your CSS file */
+.centered-star-ratings {
+    display: flex;
+    justify-content: center;  /* Centers horizontally */
+    align-items: center;      /* Centers vertically */
+    margin-top: 1rem;         /* Adjust spacing if needed */
+}
